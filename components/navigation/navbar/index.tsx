@@ -2,9 +2,6 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
-import { SidebarProvider } from "@/components/ui/sidebar";
-
-import { AppSidebar } from "./app-sidebar";
 import MobileNavigation from "./MobileNavigation";
 import Theme from "./Theme";
 
@@ -32,9 +29,6 @@ const Navbar = () => {
           <MobileNavigation />
         </div>
       </nav>
-      <SidebarProvider>
-        <AppSidebar />
-      </SidebarProvider>
     </>
   );
 };
