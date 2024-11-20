@@ -27,11 +27,11 @@ To install DevFlow, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/devflow.git
+   git clone https://github.com/Rajchal/devflowy.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd devflow
+   cd devflowy
    ```
 3. Install the dependencies:
    ```bash
