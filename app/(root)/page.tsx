@@ -9,15 +9,16 @@ import ROUTES from "@/constants/routes";
 const questions = [
   {
     _id: "1",
-    title: "How to learn React?",
-    description: "I want to learn React, can anyone help me?",
+    title: "What is Javascript?",
+    description:
+      "This questions is mostly asked in our college papers please provide a detailed answer",
     tags: [
-      { _id: "1", name: "React" },
+      { _id: "1", name: "html" },
       { _id: "2", name: "JavaScript" },
     ],
     author: {
       _id: "1",
-      name: "John Doe",
+      name: "Krishal Shilpakar",
       image:
         "https://static.vecteezy.com/system/resources/previews/002/002/403/non_2x/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
     },
